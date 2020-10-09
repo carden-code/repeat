@@ -7,7 +7,7 @@ height = gets.chomp.to_i
 ideal_weight = (height - 110) * 1.15
 
 if ideal_weight.negative?
-  puts 'Your weight is already optimal'
+  puts "#{name} your weight is already optimal"
 else
-  puts "Your ideal weight #{ideal_weight} kg."
+  puts "#{name} your ideal weight #{ideal_weight} kg."
 end
