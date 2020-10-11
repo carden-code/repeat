@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # The program asks the user for the name and height
 # and displays the ideal weight according to the formula.
 puts 'Please enter your name:'

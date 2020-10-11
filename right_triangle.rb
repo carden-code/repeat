@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # The program asks the user for the 3 sides of a triangle and determines whether
 # the triangle is rectangular, isosceles or equilateral and
 # displays the result on the screen.

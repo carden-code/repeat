@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # The program should query the base and
 # height of the triangle and return its area.
 puts 'Please enter the base of the triangle:'
