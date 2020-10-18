@@ -17,10 +17,6 @@ class Station
     @trains << train
   end
 
-  def list_trains_type
-
-  end
-
   def send_train(train)
     @trains.delete(train)
   end
